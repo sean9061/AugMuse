@@ -1,0 +1,2 @@
+AugMuse_Unity/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+AugMuse_Build/Libraries/libiPhone-lib.a filter=lfs diff=lfs merge=lfs -text
