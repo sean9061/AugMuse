@@ -1,12 +1,14 @@
 ﻿<Properties StartupConfiguration="{62FC5DE2-B040-C9C0-69C1-28550AB4A426}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Object_controll.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Controll_Object.cs">
     <Files>
-      <File FileName="Assets/Script/Object_controll.cs" Line="29" Column="54" />
+      <File FileName="Assets/Script/Controll_UI.cs" Line="11" Column="32" />
+      <File FileName="Assets/Script/Controll_Yatugatake.cs" />
+      <File FileName="Assets/Script/Controll_Object.cs" Line="18" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="02916906-1ed5-4f84-944c-994d72042120" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4a7a4f4a-9dfe-4c34-9cad-a9840401b1c2" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
