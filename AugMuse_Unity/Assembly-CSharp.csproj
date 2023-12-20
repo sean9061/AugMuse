@@ -63,6 +63,7 @@
     <Compile Include="Assets/Script/Controll_Yatugatake.cs" />
     <Compile Include="Assets/Script/Controll_Object.cs" />
     <Compile Include="Assets/Script/Controll_UI.cs" />
+    <Compile Include="Assets/Script/Controll_Start.cs" />
     <Compile Include="Assets/_Heathen Engineering/Samples/UX Examples/Flat Icons [Free]/ToggleSetAnimatorBoolean.cs" />
   </ItemGroup>
   <ItemGroup>

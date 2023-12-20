@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
+using UnityEngine.SceneManagement;
 
 public class Controll_UI : MonoBehaviour
 {
@@ -22,5 +23,10 @@ public class Controll_UI : MonoBehaviour
             //Menu.SetActive(false);
             menu_flag = false;
         }
+    }
+
+    public void Controll_Home()
+    {
+        SceneManager.LoadScene("Title");
     }
 }

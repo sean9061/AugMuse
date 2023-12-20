@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/AR_test(2Dimg-tracking).unity
     guid: a991d295754c049c48efe980fcdb1e55
   - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 5c493732b9881406cac0cd9af4feb122
+  - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: 49065ca841fe4416f8d56eef5e79cbc3
   m_configObjects:
