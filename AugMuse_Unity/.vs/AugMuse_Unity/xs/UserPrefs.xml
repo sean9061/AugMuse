@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{62FC5DE2-B040-C9C0-69C1-28550AB4A426}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Controll_UI.cs">
     <Files>
-      <File FileName="Assets/Script/Controll_UI.cs" Line="18" Column="30" />
-      <File FileName="Assets/Script/Controll_Yatugatake.cs" Line="7" Column="2" />
-      <File FileName="Assets/Script/Controll_Object.cs" Line="15" Column="49" />
-      <File FileName="Assets/Script/Controll_Start.cs" Line="9" Column="6" />
+      <File FileName="Assets/Script/Controll_Yatugatake.cs" Line="102" Column="37" />
+      <File FileName="Assets/Script/Controll_Object.cs" />
+      <File FileName="Assets/Script/Controll_Start.cs" />
+      <File FileName="Assets/Script/Controll_UI.cs" Line="54" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ccfeb335-1363-4d71-9e2b-b1cfb6d94d28" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a68c0617-bce2-4f04-b4ea-5a837185f5e0" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

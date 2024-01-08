@@ -7,7 +7,9 @@ using UnityEngine.SceneManagement;
 public class Controll_UI : MonoBehaviour
 {
     public GameObject Menu;
+    public GameObject Feedback;
     public bool menu_flag = false;
+    public bool feedback_flag = false;
 
     public void Controll_Menu()
     {
@@ -28,5 +30,24 @@ public class Controll_UI : MonoBehaviour
     public void Controll_Home()
     {
         SceneManager.LoadScene("Title");
+    }
+
+    public void Controll_Feedback()
+    {
+        if (!feedback_flag)
+        {
+            Feedback.SetActive(true);
+            feedback_flag = true;
+        }
+        else
+        {
+            Feedback.SetActive(false);
+            feedback_flag = false;
+        }
+    }
+
+    public void Google_form()
+    {
+        Application.OpenURL("https://forms.gle/vZXLA5VUoX7vEVPQA");
     }
 }

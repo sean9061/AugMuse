@@ -10,6 +10,7 @@ public class Controll_Yatugatake : MonoBehaviour
     [SerializeField] private Toggle toggle_akouzantai;
     [SerializeField] private Toggle toggle_teizantai;
     [SerializeField] private Toggle toggle_kawa;
+    [SerializeField] private Toggle toggle_animal;
 
     public GameObject dem;
     public GameObject kouzan;
@@ -17,6 +18,7 @@ public class Controll_Yatugatake : MonoBehaviour
     public GameObject teizan;
     public GameObject zentai;
     public GameObject kawa;
+    public GameObject animal;
 
     //public void Start()
     //{
@@ -27,6 +29,7 @@ public class Controll_Yatugatake : MonoBehaviour
     {
         Toggle_Syokusei();
         Toggle_Kawa();
+        Toggle_Animal();
     }
 
     public void Toggle_Syokusei()
@@ -85,6 +88,18 @@ public class Controll_Yatugatake : MonoBehaviour
         else
         {
             kawa.SetActive(false);
+        }
+    }
+
+    public void Toggle_Animal()
+    {
+        if (toggle_animal.isOn)
+        {
+            animal.SetActive(true);
+        }
+        else
+        {
+            animal.SetActive(false);
         }
     }
 }
