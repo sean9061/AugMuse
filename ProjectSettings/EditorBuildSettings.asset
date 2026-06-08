@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/AR_test(3DObject-tracking).unity
+    guid: c0327386d2c564711bcdd3e5a87de1e7
+  - enabled: 0
+    path: Assets/Scenes/AR_test(2Dimg-tracking).unity
+    guid: a991d295754c049c48efe980fcdb1e55
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 5c493732b9881406cac0cd9af4feb122
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 49065ca841fe4416f8d56eef5e79cbc3
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 1293503debdf84150a2cf9d20f070373, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a211b7f0047ad405aa641f98fde3591d, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 4617ad5a45e964bcc9ecd351ac57f5dc, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8257d8bb0159945719f7b44744eb1cdb, type: 2}
