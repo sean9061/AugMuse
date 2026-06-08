@@ -29,3 +29,8 @@
 
 - iOS: Xcode + ARKit対応デバイス（iPhone 6s以降）
 - Android: ARCore対応デバイス
+
+## 発表資料・デモ
+
+- [発表スライド（PDF）](docs/J3014_GUIofFuture_全体発表会.pptx.pdf)
+- [デモ動画（MP4）](docs/augmuse_demo.mp4)
